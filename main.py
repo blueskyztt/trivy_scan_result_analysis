@@ -53,7 +53,6 @@ def severity_stats(df):
     return df_result
 
 
-
 def main():
     str_file = "./kicbase.json"
     # str_file = "./result_k8s_minikube.json"
@@ -61,17 +60,7 @@ def main():
     df = build_df(str_file)
     df.to_csv("./{}_df.csv".format(str_file), index=False)
     df_result = severity_stats(df)
-    # df_result.to_csv("./{}_result.csv".format(str_file), index=False)
-    # -------
-    values_target = df['Target'].value_counts().index.tolist()
-    dict_target2spname = {target: 'target{}'.format(i) for i, target in enumerate(values_target)}
-    df['Target_simple_name'] = df['Target'].apply(lambda x:dict_target2spname[x])
-
-
-
-
-
-
+    df_result.to_csv("./{}_result.csv".format(str_file), index=False)
 
 
 if __name__ == '__main__':
