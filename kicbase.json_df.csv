@@ -1,0 +1,568 @@
+Target,Class,Type,VulnerabilityID,PkgName,Severity
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-27350,apt,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2019-18276,bash,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-8625,bind9-dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25214,bind9-dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25215,bind9-dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25216,bind9-dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25219,bind9-dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25220,bind9-dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-2795,bind9-dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3094,bind9-dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-38177,bind9-dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-38178,bind9-dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-2828,bind9-dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-2911,bind9-dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-3341,bind9-dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-8625,bind9-host,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25214,bind9-host,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25215,bind9-host,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25216,bind9-host,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25219,bind9-host,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25220,bind9-host,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-2795,bind9-host,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3094,bind9-host,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-38177,bind9-host,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-38178,bind9-host,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-2828,bind9-host,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-2911,bind9-host,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-3341,bind9-host,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-8625,bind9-libs,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25214,bind9-libs,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25215,bind9-libs,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25216,bind9-libs,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25219,bind9-libs,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25220,bind9-libs,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-2795,bind9-libs,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3094,bind9-libs,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-38177,bind9-libs,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-38178,bind9-libs,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-2828,bind9-libs,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-2911,bind9-libs,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-3341,bind9-libs,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3995,bsdutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3996,bsdutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-23491,ca-certificates,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2016-2781,coreutils,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-22876,curl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-22890,curl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-22924,curl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-22925,curl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-22946,curl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-22947,curl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-22576,curl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-27774,curl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-27782,curl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-32206,curl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-32208,curl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-32221,curl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-43552,curl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-23916,curl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-27535,curl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-22898,curl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-27775,curl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-27776,curl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-27781,curl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-35252,curl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-27533,curl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-27534,curl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-27536,curl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-27538,curl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-28321,curl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-28322,curl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-38546,curl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-34903,dirmngr,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3219,dirmngr,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-8625,dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25214,dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25215,dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25216,dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25219,dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-25220,dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-2795,dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3094,dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-38177,dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-38178,dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-2828,dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-2911,dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-3341,dnsutils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-1664,dpkg,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-1304,e2fsprogs,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3995,fdisk,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3996,fdisk,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-34903,gnupg,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3219,gnupg,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-34903,gnupg-l10n,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3219,gnupg-l10n,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-34903,gnupg-utils,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3219,gnupg-utils,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-34903,gpg,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3219,gpg,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-34903,gpg-agent,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3219,gpg-agent,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-34903,gpg-wks-client,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3219,gpg-wks-client,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-34903,gpg-wks-server,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3219,gpg-wks-server,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-34903,gpgconf,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3219,gpgconf,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-34903,gpgsm,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3219,gpgsm,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-34903,gpgv,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3219,gpgv,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-1271,gzip,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2016-1585,libapparmor1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-27350,libapt-pkg6.0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-44758,libasn1-8-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3116,libasn1-8-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3437,libasn1-8-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-41916,libasn1-8-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-42898,libasn1-8-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-44640,libasn1-8-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-45142,libasn1-8-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3671,libasn1-8-heimdal,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3995,libblkid1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3996,libblkid1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3999,libc-bin,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-5156,libc-bin,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2016-10228,libc-bin,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2016-20013,libc-bin,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2019-25013,libc-bin,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-27618,libc-bin,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-29562,libc-bin,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-6096,libc-bin,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-27645,libc-bin,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3326,libc-bin,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-35942,libc-bin,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-23218,libc-bin,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-23219,libc-bin,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-4806,libc-bin,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-4813,libc-bin,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3999,libc6,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-5156,libc6,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2016-10228,libc6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2016-20013,libc6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2019-25013,libc6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-27618,libc6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-29562,libc6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-6096,libc6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-27645,libc6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3326,libc6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-35942,libc6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-23218,libc6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-23219,libc6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-4806,libc6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-4813,libc6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-2603,libcap2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-2602,libcap2,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-2603,libcap2-bin,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-2602,libcap2-bin,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-1304,libcom-err2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-4122,libcryptsetup12,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-22876,libcurl4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-22890,libcurl4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-22924,libcurl4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-22925,libcurl4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-22946,libcurl4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-22947,libcurl4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-22576,libcurl4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-27774,libcurl4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-27782,libcurl4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-32206,libcurl4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-32208,libcurl4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-32221,libcurl4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-43552,libcurl4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-23916,libcurl4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-27535,libcurl4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-22898,libcurl4,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-27775,libcurl4,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-27776,libcurl4,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-27781,libcurl4,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-35252,libcurl4,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-27533,libcurl4,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-27534,libcurl4,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-27536,libcurl4,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-27538,libcurl4,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-28321,libcurl4,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-28322,libcurl4,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-38546,libcurl4,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-21047,libelf1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-33294,libelf1,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-1304,libext2fs2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3995,libfdisk1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3996,libfdisk1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-40528,libgcrypt20,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-33560,libgcrypt20,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-27218,libglib2.0-0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-27219,libglib2.0-0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-28153,libglib2.0-0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-29499,libglib2.0-0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-32611,libglib2.0-0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-32636,libglib2.0-0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-32643,libglib2.0-0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-32665,libglib2.0-0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-43618,libgmp10,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-2509,libgnutls30,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-0361,libgnutls30,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-20231,libgnutls30,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-20232,libgnutls30,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-4209,libgnutls30,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-36222,libgssapi-krb5-2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-37750,libgssapi-krb5-2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-42898,libgssapi-krb5-2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-36054,libgssapi-krb5-2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-44758,libgssapi3-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3116,libgssapi3-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3437,libgssapi3-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-41916,libgssapi3-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-42898,libgssapi3-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-44640,libgssapi3-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-45142,libgssapi3-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3671,libgssapi3-heimdal,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-44758,libhcrypto4-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3116,libhcrypto4-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3437,libhcrypto4-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-41916,libhcrypto4-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-42898,libhcrypto4-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-44640,libhcrypto4-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-45142,libhcrypto4-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3671,libhcrypto4-heimdal,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-44758,libheimbase1-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3116,libheimbase1-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3437,libheimbase1-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-41916,libheimbase1-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-42898,libheimbase1-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-44640,libheimbase1-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-45142,libheimbase1-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3671,libheimbase1-heimdal,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-44758,libheimntlm0-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3116,libheimntlm0-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3437,libheimntlm0-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-41916,libheimntlm0-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-42898,libheimntlm0-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-44640,libheimntlm0-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-45142,libheimntlm0-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3671,libheimntlm0-heimdal,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-20305,libhogweed5,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3580,libhogweed5,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-44758,libhx509-5-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3116,libhx509-5-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3437,libhx509-5-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-41916,libhx509-5-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-42898,libhx509-5-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-44640,libhx509-5-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-45142,libhx509-5-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3671,libhx509-5-heimdal,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-30535,libicu66,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-36222,libk5crypto3,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-37750,libk5crypto3,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-42898,libk5crypto3,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-36054,libk5crypto3,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-44758,libkrb5-26-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3116,libkrb5-26-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3437,libkrb5-26-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-41916,libkrb5-26-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-42898,libkrb5-26-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-44640,libkrb5-26-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-45142,libkrb5-26-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3671,libkrb5-26-heimdal,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-36222,libkrb5-3,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-37750,libkrb5-3,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-42898,libkrb5-3,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-36054,libkrb5-3,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-36222,libkrb5support0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-37750,libkrb5support0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-42898,libkrb5support0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-36054,libkrb5support0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3515,libksba8,HIGH
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-47629,libksba8,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36221,libldap-2.4-2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36222,libldap-2.4-2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36223,libldap-2.4-2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36224,libldap-2.4-2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36225,libldap-2.4-2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36226,libldap-2.4-2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36227,libldap-2.4-2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36228,libldap-2.4-2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36229,libldap-2.4-2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36230,libldap-2.4-2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-27212,libldap-2.4-2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-29155,libldap-2.4-2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-2953,libldap-2.4-2,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36221,libldap-common,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36222,libldap-common,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36223,libldap-common,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36224,libldap-common,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36225,libldap-common,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36226,libldap-common,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36227,libldap-common,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36228,libldap-common,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36229,libldap-common,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-36230,libldap-common,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-27212,libldap-common,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-29155,libldap-common,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-2953,libldap-common,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3520,liblz4-1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-22916,liblzma5,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-1271,liblzma5,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3995,libmount1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3996,libmount1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-29491,libncurses6,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-39537,libncurses6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-29458,libncurses6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-29491,libncursesw6,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-39537,libncursesw6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-29458,libncursesw6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-20305,libnettle7,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3580,libnettle7,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-11080,libnghttp2-14,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-29361,libp11-kit0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-29362,libp11-kit0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-29363,libp11-kit0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-28321,libpam-modules,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-28321,libpam-modules-bin,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-28321,libpam-runtime,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-28321,libpam0g,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-1586,libpcre2-8-0,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-1587,libpcre2-8-0,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2017-11164,libpcre3,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2019-20838,libpcre3,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-14155,libpcre3,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-4016,libprocps8,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-44758,libroken18-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3116,libroken18-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3437,libroken18-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-41916,libroken18-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-42898,libroken18-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-44640,libroken18-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-45142,libroken18-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3671,libroken18-heimdal,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-24407,libsasl2-2,HIGH
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-24407,libsasl2-modules-db,HIGH
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-36084,libsepol1,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-36085,libsepol1,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-36086,libsepol1,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-36087,libsepol1,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3995,libsmartcols1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3996,libsmartcols1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-35525,libsqlite3-0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-35527,libsqlite3-0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-35737,libsqlite3-0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-36690,libsqlite3-0,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-1304,libss2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3634,libssh-4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-1667,libssh-4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-2283,libssh-4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3449,libssl1.1,HIGH
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3711,libssl1.1,HIGH
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-0778,libssl1.1,HIGH
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-0286,libssl1.1,HIGH
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-23841,libssl1.1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3712,libssl1.1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-1292,libssl1.1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-2068,libssl1.1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-2097,libssl1.1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-4304,libssl1.1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-4450,libssl1.1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-0215,libssl1.1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-2650,libssl1.1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-23840,libssl1.1,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-0464,libssl1.1,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-0465,libssl1.1,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-0466,libssl1.1,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-3446,libssl1.1,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-3817,libssl1.1,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-33910,libsystemd0,HIGH
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3997,libsystemd0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3821,libsystemd0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-4415,libsystemd0,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-13529,libsystemd0,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-26604,libsystemd0,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-29491,libtinfo6,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-39537,libtinfo6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-29458,libtinfo6,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-46828,libtirpc-common,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-46828,libtirpc3,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-33910,libudev1,HIGH
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3997,libudev1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3821,libudev1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-4415,libudev1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-13529,libudev1,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-26604,libudev1,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3995,libuuid1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3996,libuuid1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-22918,libuv1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-44758,libwind0-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3116,libwind0-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3437,libwind0-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-41916,libwind0-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-42898,libwind0-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-44640,libwind0-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-45142,libwind0-heimdal,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3671,libwind0-heimdal,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2016-3709,libxml2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3516,libxml2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3517,libxml2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3518,libxml2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3537,libxml2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3541,libxml2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-23308,libxml2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-29824,libxml2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-40303,libxml2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-40304,libxml2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-28484,libxml2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-29469,libxml2,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-24977,libxml2,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-2309,libxml2,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-24031,libzstd1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-24032,libzstd1,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2013-4235,login,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-29383,login,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-1304,logsave,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3520,lz4,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3995,mount,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3996,mount,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-29491,ncurses-base,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-39537,ncurses-base,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-29458,ncurses-base,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-29491,ncurses-bin,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-39537,ncurses-bin,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-29458,ncurses-bin,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-28041,openssh-client,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-38408,openssh-client,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-41617,openssh-client,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-28041,openssh-server,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-38408,openssh-server,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-41617,openssh-server,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-28041,openssh-sftp-server,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-38408,openssh-sftp-server,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-41617,openssh-sftp-server,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3449,openssl,HIGH
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3711,openssl,HIGH
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-0778,openssl,HIGH
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-0286,openssl,HIGH
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-23841,openssl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3712,openssl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-1292,openssl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-2068,openssl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-2097,openssl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-4304,openssl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-4450,openssl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-0215,openssl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-2650,openssl,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-23840,openssl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-0464,openssl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-0465,openssl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-0466,openssl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-3446,openssl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-3817,openssl,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2013-4235,passwd,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-29383,passwd,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-16156,perl-base,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-31484,perl-base,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-4016,procps,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2018-25032,rsync,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-29154,rsync,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-37434,rsync,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3156,sudo,HIGH
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-22809,sudo,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-28486,sudo,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-28487,sudo,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-23239,sudo,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-33910,systemd,HIGH
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3997,systemd,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3821,systemd,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-4415,systemd,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-13529,systemd,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-26604,systemd,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-33910,systemd-timesyncd,HIGH
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3997,systemd-timesyncd,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3821,systemd-timesyncd,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-4415,systemd-timesyncd,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-13529,systemd-timesyncd,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-26604,systemd-timesyncd,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-48303,tar,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2019-9923,tar,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-20193,tar,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-33910,udev,HIGH
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3997,udev,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-3821,udev,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-4415,udev,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2020-13529,udev,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2023-26604,udev,LOW
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3995,util-linux,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2021-3996,util-linux,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2018-25032,zlib1g,MEDIUM
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),os-pkgs,ubuntu,CVE-2022-37434,zlib1g,MEDIUM
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2022-23648,github.com/containerd/containerd,HIGH
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2020-15257,github.com/containerd/containerd,MEDIUM
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2021-32760,github.com/containerd/containerd,MEDIUM
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2021-41103,github.com/containerd/containerd,MEDIUM
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2022-23471,github.com/containerd/containerd,MEDIUM
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2022-31030,github.com/containerd/containerd,MEDIUM
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2023-25153,github.com/containerd/containerd,MEDIUM
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2023-25173,github.com/containerd/containerd,MEDIUM
+usr/local/bin/buildctl,lang-pkgs,gobinary,GHSA-5j5w-g665-5m35,github.com/containerd/containerd,LOW
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2023-2253,github.com/docker/distribution,HIGH
+usr/local/bin/buildctl,lang-pkgs,gobinary,GHSA-qq97-vm5h-rrhg,github.com/docker/distribution,LOW
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2023-28840,github.com/docker/docker,HIGH
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2023-28841,github.com/docker/docker,MEDIUM
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2023-28842,github.com/docker/docker,MEDIUM
+usr/local/bin/buildctl,lang-pkgs,gobinary,GHSA-jq35-85cj-fj4p,github.com/docker/docker,MEDIUM
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2021-3121,github.com/gogo/protobuf,HIGH
+usr/local/bin/buildctl,lang-pkgs,gobinary,GHSA-77vh-xpmg-72qh,github.com/opencontainers/image-spec,LOW
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2020-29652,golang.org/x/crypto,HIGH
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2021-43565,golang.org/x/crypto,HIGH
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2022-27191,golang.org/x/crypto,HIGH
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2021-33194,golang.org/x/net,HIGH
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2022-27664,golang.org/x/net,HIGH
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2022-41723,golang.org/x/net,HIGH
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2023-39325,golang.org/x/net,HIGH
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2021-31525,golang.org/x/net,MEDIUM
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2023-3978,golang.org/x/net,MEDIUM
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2023-44487,golang.org/x/net,MEDIUM
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2022-29526,golang.org/x/sys,MEDIUM
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2021-38561,golang.org/x/text,HIGH
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2022-32149,golang.org/x/text,HIGH
+usr/local/bin/buildctl,lang-pkgs,gobinary,GHSA-m425-mq94-257g,google.golang.org/grpc,HIGH
+usr/local/bin/buildctl,lang-pkgs,gobinary,CVE-2023-44487,google.golang.org/grpc,MEDIUM
+usr/local/bin/buildkit-runc,lang-pkgs,gobinary,GHSA-6xv5-86q9-7xr8,github.com/cyphar/filepath-securejoin,MEDIUM
+usr/local/bin/buildkit-runc,lang-pkgs,gobinary,CVE-2022-29526,golang.org/x/sys,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2022-23648,github.com/containerd/containerd,HIGH
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2020-15257,github.com/containerd/containerd,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2021-32760,github.com/containerd/containerd,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2021-41103,github.com/containerd/containerd,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2022-23471,github.com/containerd/containerd,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2022-31030,github.com/containerd/containerd,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2023-25153,github.com/containerd/containerd,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2023-25173,github.com/containerd/containerd,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,GHSA-5j5w-g665-5m35,github.com/containerd/containerd,LOW
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2021-20206,github.com/containernetworking/cni,HIGH
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2023-2253,github.com/docker/distribution,HIGH
+usr/local/bin/buildkitd,lang-pkgs,gobinary,GHSA-qq97-vm5h-rrhg,github.com/docker/distribution,LOW
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2023-28840,github.com/docker/docker,HIGH
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2023-28841,github.com/docker/docker,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2023-28842,github.com/docker/docker,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,GHSA-jq35-85cj-fj4p,github.com/docker/docker,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2021-3121,github.com/gogo/protobuf,HIGH
+usr/local/bin/buildkitd,lang-pkgs,gobinary,GHSA-77vh-xpmg-72qh,github.com/opencontainers/image-spec,LOW
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2021-30465,github.com/opencontainers/runc,HIGH
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2021-43784,github.com/opencontainers/runc,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2022-29162,github.com/opencontainers/runc,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2023-28642,github.com/opencontainers/runc,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2023-25809,github.com/opencontainers/runc,LOW
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2020-29652,golang.org/x/crypto,HIGH
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2021-43565,golang.org/x/crypto,HIGH
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2022-27191,golang.org/x/crypto,HIGH
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2021-33194,golang.org/x/net,HIGH
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2022-27664,golang.org/x/net,HIGH
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2022-41723,golang.org/x/net,HIGH
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2023-39325,golang.org/x/net,HIGH
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2021-31525,golang.org/x/net,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2023-3978,golang.org/x/net,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2023-44487,golang.org/x/net,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2022-29526,golang.org/x/sys,MEDIUM
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2021-38561,golang.org/x/text,HIGH
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2022-32149,golang.org/x/text,HIGH
+usr/local/bin/buildkitd,lang-pkgs,gobinary,GHSA-m425-mq94-257g,google.golang.org/grpc,HIGH
+usr/local/bin/buildkitd,lang-pkgs,gobinary,CVE-2023-44487,google.golang.org/grpc,MEDIUM
