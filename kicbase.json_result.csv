@@ -1,0 +1,211 @@
+Target,PkgName,Severity,count
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),apt,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),bash,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),bind9-dnsutils,MEDIUM,13
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),bind9-host,MEDIUM,13
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),bind9-libs,MEDIUM,13
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),bsdutils,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),ca-certificates,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),coreutils,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),curl,LOW,12
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),curl,MEDIUM,15
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),dirmngr,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),dirmngr,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),dnsutils,MEDIUM,13
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),dpkg,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),e2fsprogs,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),fdisk,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gnupg,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gnupg,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gnupg-l10n,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gnupg-l10n,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gnupg-utils,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gnupg-utils,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gpg,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gpg,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gpg-agent,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gpg-agent,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gpg-wks-client,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gpg-wks-client,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gpg-wks-server,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gpg-wks-server,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gpgconf,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gpgconf,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gpgsm,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gpgsm,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gpgv,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gpgv,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),gzip,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libapparmor1,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libapt-pkg6.0,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libasn1-8-heimdal,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libasn1-8-heimdal,MEDIUM,7
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libblkid1,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libc-bin,LOW,13
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libc-bin,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libc6,LOW,13
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libc6,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libcap2,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libcap2,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libcap2-bin,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libcap2-bin,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libcom-err2,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libcryptsetup12,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libcurl4,LOW,12
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libcurl4,MEDIUM,15
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libelf1,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libelf1,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libext2fs2,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libfdisk1,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libgcrypt20,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libgcrypt20,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libglib2.0-0,MEDIUM,8
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libgmp10,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libgnutls30,LOW,3
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libgnutls30,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libgssapi-krb5-2,MEDIUM,4
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libgssapi3-heimdal,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libgssapi3-heimdal,MEDIUM,7
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libhcrypto4-heimdal,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libhcrypto4-heimdal,MEDIUM,7
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libheimbase1-heimdal,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libheimbase1-heimdal,MEDIUM,7
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libheimntlm0-heimdal,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libheimntlm0-heimdal,MEDIUM,7
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libhogweed5,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libhx509-5-heimdal,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libhx509-5-heimdal,MEDIUM,7
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libicu66,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libk5crypto3,MEDIUM,4
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libkrb5-26-heimdal,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libkrb5-26-heimdal,MEDIUM,7
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libkrb5-3,MEDIUM,4
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libkrb5support0,MEDIUM,4
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libksba8,HIGH,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libksba8,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libldap-2.4-2,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libldap-2.4-2,MEDIUM,12
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libldap-common,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libldap-common,MEDIUM,12
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),liblz4-1,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),liblzma5,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libmount1,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libncurses6,LOW,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libncurses6,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libncursesw6,LOW,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libncursesw6,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libnettle7,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libnghttp2-14,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libp11-kit0,MEDIUM,3
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libpam-modules,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libpam-modules-bin,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libpam-runtime,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libpam0g,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libpcre2-8-0,LOW,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libpcre3,LOW,3
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libprocps8,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libroken18-heimdal,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libroken18-heimdal,MEDIUM,7
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libsasl2-2,HIGH,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libsasl2-modules-db,HIGH,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libsepol1,LOW,4
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libsmartcols1,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libsqlite3-0,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libsqlite3-0,MEDIUM,3
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libss2,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libssh-4,MEDIUM,3
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libssl1.1,HIGH,4
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libssl1.1,LOW,6
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libssl1.1,MEDIUM,9
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libsystemd0,HIGH,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libsystemd0,LOW,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libsystemd0,MEDIUM,3
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libtinfo6,LOW,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libtinfo6,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libtirpc-common,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libtirpc3,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libudev1,HIGH,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libudev1,LOW,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libudev1,MEDIUM,3
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libuuid1,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libuv1,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libwind0-heimdal,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libwind0-heimdal,MEDIUM,7
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libxml2,LOW,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libxml2,MEDIUM,12
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),libzstd1,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),login,LOW,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),logsave,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),lz4,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),mount,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),ncurses-base,LOW,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),ncurses-base,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),ncurses-bin,LOW,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),ncurses-bin,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),openssh-client,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),openssh-client,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),openssh-server,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),openssh-server,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),openssh-sftp-server,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),openssh-sftp-server,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),openssl,HIGH,4
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),openssl,LOW,6
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),openssl,MEDIUM,9
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),passwd,LOW,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),perl-base,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),procps,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),rsync,MEDIUM,3
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),sudo,HIGH,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),sudo,LOW,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),sudo,MEDIUM,3
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),systemd,HIGH,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),systemd,LOW,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),systemd,MEDIUM,3
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),systemd-timesyncd,HIGH,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),systemd-timesyncd,LOW,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),systemd-timesyncd,MEDIUM,3
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),tar,LOW,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),tar,MEDIUM,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),udev,HIGH,1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),udev,LOW,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),udev,MEDIUM,3
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),util-linux,MEDIUM,2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.17 (ubuntu 20.04),zlib1g,MEDIUM,2
+usr/local/bin/buildctl,github.com/containerd/containerd,HIGH,1
+usr/local/bin/buildctl,github.com/containerd/containerd,LOW,1
+usr/local/bin/buildctl,github.com/containerd/containerd,MEDIUM,7
+usr/local/bin/buildctl,github.com/docker/distribution,HIGH,1
+usr/local/bin/buildctl,github.com/docker/distribution,LOW,1
+usr/local/bin/buildctl,github.com/docker/docker,HIGH,1
+usr/local/bin/buildctl,github.com/docker/docker,MEDIUM,3
+usr/local/bin/buildctl,github.com/gogo/protobuf,HIGH,1
+usr/local/bin/buildctl,github.com/opencontainers/image-spec,LOW,1
+usr/local/bin/buildctl,golang.org/x/crypto,HIGH,3
+usr/local/bin/buildctl,golang.org/x/net,HIGH,4
+usr/local/bin/buildctl,golang.org/x/net,MEDIUM,3
+usr/local/bin/buildctl,golang.org/x/sys,MEDIUM,1
+usr/local/bin/buildctl,golang.org/x/text,HIGH,2
+usr/local/bin/buildctl,google.golang.org/grpc,HIGH,1
+usr/local/bin/buildctl,google.golang.org/grpc,MEDIUM,1
+usr/local/bin/buildkit-runc,github.com/cyphar/filepath-securejoin,MEDIUM,1
+usr/local/bin/buildkit-runc,golang.org/x/sys,MEDIUM,1
+usr/local/bin/buildkitd,github.com/containerd/containerd,HIGH,1
+usr/local/bin/buildkitd,github.com/containerd/containerd,LOW,1
+usr/local/bin/buildkitd,github.com/containerd/containerd,MEDIUM,7
+usr/local/bin/buildkitd,github.com/containernetworking/cni,HIGH,1
+usr/local/bin/buildkitd,github.com/docker/distribution,HIGH,1
+usr/local/bin/buildkitd,github.com/docker/distribution,LOW,1
+usr/local/bin/buildkitd,github.com/docker/docker,HIGH,1
+usr/local/bin/buildkitd,github.com/docker/docker,MEDIUM,3
+usr/local/bin/buildkitd,github.com/gogo/protobuf,HIGH,1
+usr/local/bin/buildkitd,github.com/opencontainers/image-spec,LOW,1
+usr/local/bin/buildkitd,github.com/opencontainers/runc,HIGH,1
+usr/local/bin/buildkitd,github.com/opencontainers/runc,LOW,1
+usr/local/bin/buildkitd,github.com/opencontainers/runc,MEDIUM,3
+usr/local/bin/buildkitd,golang.org/x/crypto,HIGH,3
+usr/local/bin/buildkitd,golang.org/x/net,HIGH,4
+usr/local/bin/buildkitd,golang.org/x/net,MEDIUM,3
+usr/local/bin/buildkitd,golang.org/x/sys,MEDIUM,1
+usr/local/bin/buildkitd,golang.org/x/text,HIGH,2
+usr/local/bin/buildkitd,google.golang.org/grpc,HIGH,1
+usr/local/bin/buildkitd,google.golang.org/grpc,MEDIUM,1

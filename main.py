@@ -55,10 +55,8 @@ def severity_stats(df):
 
 def main():
     str_file = "./kicbase.json"
-    # str_file = "./result_k8s_minikube.json"
-
     df = build_df(str_file)
-    df.to_csv("./{}_df.csv".format(str_file), index=False)
+    # df.to_csv("./{}_df.csv".format(str_file), index=False)
     df_result = severity_stats(df)
     df_result.to_csv("./{}_result.csv".format(str_file), index=False)
 
